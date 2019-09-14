@@ -1,13 +1,16 @@
+/* Base Styles */
 body {
   background-color: #c5e9e8;
 }
 
+/* Burger */
 .burger {
   margin: 0 auto;
   width: 250px;
   position: relative;
 }
 
+/* Cheese */
 .burger .cheesey {
   position: absolute;
   top: 40px;
@@ -62,6 +65,7 @@ body {
   transform: rotate(-15deg);
 }
 
+/* Burger Patty */
 .burger .patty {
   background: #732626;
   height: 75px;
@@ -83,6 +87,7 @@ body {
   background: #933;
 }
 
+/* Buns */
 .burger .bun {
   background: #dd8c3c;
   width: 250px;
